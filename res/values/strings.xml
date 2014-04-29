@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Boleta de Honorarios</string>
+    <string name="action_settings">Configuración</string>
+    <string name="action_about">Autor</string>
+    <string name="action_informacion">Información</string>
+    
+    <string name="hello_world">Hello world!</string>
+    <string name="liquido">VALORES LÍQUIDOS</string>
+    <string name="bruto">VALORES BRUTOS</string>
+    <string name="calcula">CALCULA TU BOLETA DE HONORARIOS</string>
+    <string name="URL">Creado por @maskin_</string>
+    <string name="escribir">Debes hacer la boleta por</string>
+    <string name="recibir">y recibirás en efectivo</string>
+    <string name="calcular">Calcular</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="precio_defecto">$000</string>
+    <string name="info_cap">INFORMACIÓN</string>
+    
+
+</resources>
